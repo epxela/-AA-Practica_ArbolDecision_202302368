@@ -149,12 +149,16 @@ git flow init
 
 ### Capturas de Pantalla
 - Menú principal funcionando
+![Menú funcionando](/evidencia/1.jpg)
 - Ejecución con diferentes configuraciones
+![Prueba con 1000 numeros](/evidencia/2.jpg)
 - Resultados con distintos tamaños de datos
+![Prueba con 10000000 numeros](/evidencia/4.jpg)
 - Error controlado al intentar procesar 1,000,000,000 números
+![Error](/evidencia/3.jpg)
 
 ### Archivos de Evidencia
-Ubicación: `docs/evidencias/` (consultar carpeta evidencia en el proyecto)
+Ubicación: `docs/evidencias/`
 
 ### Pruebas Realizadas
 - Funcionamiento con 1,000 números
