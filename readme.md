@@ -3,7 +3,7 @@
 **Universidad Da Vinci de Guatemala**  
 **Curso:** Análisis de Algoritmos  
 **Práctica:** Implementación de Árbol de Decisión Binario  
-**Estudiante:** Francisco De los montes azules  
+**Estudiante:** Francisco Javier Rojas Santos
 **Carnet:** 202302368  
 **Fecha:** Noviembre 2025
 
